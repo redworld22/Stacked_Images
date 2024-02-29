@@ -1,2 +1,2 @@
 # Stacked_Images
-This mini project is made with HTML and CSS
+This mini project was made with HTML and CSS
